@@ -1,0 +1,7 @@
+GUIDELINES :
+
+1. if you want you can change the position of hash (#) and dot (.) 
+2. if you want you can change the letter 
+3. to begin the game press 1 in the console.
+4. to exit the game press 3 in the console.
+5. if you want to get letter in the bottom right grid, you can rearrange it in the source code.
